@@ -5,7 +5,7 @@
  - Projeto construído com base em um tutorial do Youtube
 
 ## Acesso
- [Clique aqui para acessar! :)](https://landingpagemario-ten.vercel.app/)
+ [Clique aqui para acessar! :)](https://landingpagecoca.vercel.app/)
 
 ## Tecnologias
 
